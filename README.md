@@ -1,1 +1,1 @@
-# ringooMVC 2.0
+# prueba para mipc comunicaciones
